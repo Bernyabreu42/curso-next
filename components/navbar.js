@@ -7,6 +7,7 @@ export default function Navbar() {
       <Link href='/users'><a>Users</a></Link>
       <Link href='/posts'><a>Posts</a></Link>
       <Link href='/posts'><a>Posts</a></Link>
+      <Link href='/posts'><a>utlimo commit</a></Link>
     </nav >
   )
 }
